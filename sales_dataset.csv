@@ -1,0 +1,121 @@
+Date,Region,Category,Product,Quantity,Unit Price,Sales,Profit
+2025-01-02,South,Furniture,Office Chair,2,13426.3,26852.6,3751.01
+2025-01-05,North,Technology,Mechanical Keyboard,3,4541.03,13623.09,3363.8
+2025-01-09,East,Technology,Wireless Mouse,4,1765.58,7062.32,908.65
+2025-01-11,South,Office Supplies,Stapler,4,225.36,901.44,199.73
+2025-01-13,South,Technology,Laptop Air 13,8,66446.56,531572.48,124227.36
+2025-01-14,West,Furniture,Executive Chair,7,20133.44,140934.08,16865.01
+2025-01-15,East,Furniture,Filing Cabinet,7,6477.98,45345.86,11250.36
+2025-01-16,South,Technology,Smartphone X,1,43019.22,43019.22,5493.94
+2025-01-20,South,Office Supplies,Printer Paper,4,478.49,1913.96,329.32
+2025-01-21,South,Furniture,Bookshelf,4,8060.42,32241.68,4859.97
+2025-01-23,North,Furniture,Conference Table,4,27239.64,108958.56,10241.53
+2025-01-24,East,Technology,Smartphone X,2,44984.67,89969.34,22788.94
+2025-01-24,East,Technology,Laptop Air 13,3,66792.31,200376.93,46198.59
+2025-01-27,South,Furniture,Bookshelf,2,8238.72,16477.44,3466.04
+2025-01-27,West,Furniture,Office Chair,2,13305.29,26610.58,4261.46
+2025-01-28,North,Technology,Mechanical Keyboard,7,4705.39,32937.73,7908.96
+2025-01-29,North,Technology,Smartphone X,6,41169.78,247018.68,23031.46
+2025-01-30,North,Office Supplies,Stapler,6,227.86,1367.16,269.11
+2025-01-31,North,Technology,Smartphone X,1,45020.94,45020.94,4239.69
+2025-01-31,West,Technology,USB-C Hub,1,3510.6,3510.6,467.05
+2025-02-02,West,Furniture,Conference Table,6,28238.62,169431.72,27643.61
+2025-02-05,East,Office Supplies,Ball Pen Set,1,320.97,320.97,78.47
+2025-02-07,West,Technology,Laptop Pro 14,2,77745.43,155490.86,19067.98
+2025-02-07,North,Office Supplies,Stapler,3,232.46,697.38,134.29
+2025-02-12,South,Furniture,Conference Table,8,26217.68,209741.44,27692.43
+2025-02-13,North,Office Supplies,Printer Paper,3,416.56,1249.68,218.76
+2025-02-17,East,Furniture,Conference Table,1,25219.86,25219.86,5907.09
+2025-02-22,North,Office Supplies,Marker Set,7,380.67,2664.69,263.11
+2025-02-22,East,Technology,Laptop Pro 14,8,84638.14,677105.12,100307.16
+2025-02-24,East,Furniture,Conference Table,8,29160.93,233287.44,38981.73
+2025-02-25,South,Technology,Smartphone X,4,42304.8,169219.2,18281.84
+2025-03-03,North,Office Supplies,Stapler,6,251.64,1509.84,320.55
+2025-03-03,East,Technology,Laser Printer,2,19398.66,38797.32,10482.09
+2025-03-04,South,Office Supplies,Notebook Pack,8,671.79,5374.32,1491.8
+2025-03-07,North,Office Supplies,Desk Organizer,7,865.62,6059.34,1288.22
+2025-03-12,West,Office Supplies,Ball Pen Set,2,315.35,630.7,159.08
+2025-03-12,South,Technology,27-inch Monitor,7,22853.38,159973.66,35399.58
+2025-03-20,West,Technology,USB-C Hub,2,3126.25,6252.5,1245.36
+2025-03-22,East,Office Supplies,Notebook Pack,1,671.82,671.82,128.26
+2025-03-23,East,Furniture,Conference Table,5,26070.69,130353.45,35383.48
+2025-03-23,West,Office Supplies,Printer Paper,5,472.66,2363.3,586.03
+2025-03-27,North,Office Supplies,Desk Organizer,3,929.0,2787.0,283.21
+2025-04-01,North,Furniture,Conference Table,3,29324.76,87974.28,12882.7
+2025-04-04,West,Furniture,Office Chair,4,13436.21,53744.84,5109.9
+2025-04-04,South,Office Supplies,Printer Paper,6,476.8,2860.8,423.59
+2025-04-06,North,Technology,Wireless Mouse,4,1765.36,7061.44,1894.72
+2025-04-08,North,Technology,Mechanical Keyboard,7,4368.87,30582.09,4961.04
+2025-04-09,West,Furniture,Conference Table,3,28646.88,85940.64,12048.02
+2025-04-15,West,Furniture,Office Chair,5,13513.34,67566.7,16839.02
+2025-04-16,West,Furniture,Conference Table,1,29997.7,29997.7,6993.03
+2025-04-30,North,Office Supplies,Ball Pen Set,4,312.96,1251.84,275.74
+2025-05-02,West,Furniture,Office Chair,4,12598.08,50392.32,11321.67
+2025-05-02,West,Technology,USB-C Hub,8,3188.07,25504.56,6450.87
+2025-05-15,West,Office Supplies,Stapler,7,243.1,1701.7,475.57
+2025-05-16,South,Furniture,Filing Cabinet,5,6146.96,30734.8,8169.42
+2025-05-16,East,Technology,27-inch Monitor,2,23668.79,47337.58,7285.51
+2025-05-18,South,Furniture,Study Table,2,9079.96,18159.92,3090.1
+2025-05-22,West,Office Supplies,Ball Pen Set,4,286.48,1145.92,109.43
+2025-05-23,East,Technology,Wireless Mouse,6,1850.93,11105.58,1776.18
+2025-05-23,East,Furniture,Conference Table,2,27833.72,55667.44,12792.65
+2025-05-27,East,Technology,Smartphone X,6,40485.56,242913.36,45675.11
+2025-06-05,South,Technology,Wireless Mouse,2,1820.91,3641.82,594.47
+2025-06-06,South,Technology,Smartphone X,1,43344.28,43344.28,6921.79
+2025-06-07,North,Technology,Smartphone X,4,45175.28,180701.12,48679.05
+2025-06-08,East,Furniture,Conference Table,7,29104.37,203730.59,38888.6
+2025-06-10,North,Furniture,Conference Table,7,30237.23,211660.61,24979.29
+2025-06-17,West,Technology,Laser Printer,6,17898.75,107392.5,27484.75
+2025-06-21,South,Technology,Wireless Mouse,5,1700.87,8504.35,1019.04
+2025-06-22,North,Technology,Mechanical Keyboard,7,4137.04,28959.28,7225.31
+2025-07-04,East,Technology,USB-C Hub,1,3333.13,3333.13,351.03
+2025-07-13,East,Technology,Wireless Mouse,6,1827.85,10967.1,2422.79
+2025-07-14,West,Furniture,Office Chair,6,11656.64,69939.84,10564.7
+2025-07-14,North,Office Supplies,Printer Paper,6,431.88,2591.28,409.42
+2025-07-30,East,Technology,Smartphone X,3,44413.95,133241.85,13539.92
+2025-08-03,West,Technology,Smartphone X,5,44599.22,222996.1,18129.53
+2025-08-03,South,Office Supplies,Marker Set,8,396.43,3171.44,530.16
+2025-08-13,West,Office Supplies,Ball Pen Set,2,284.87,569.74,52.87
+2025-08-21,West,Furniture,Executive Chair,8,17222.75,137782.0,19198.76
+2025-08-22,South,Furniture,Conference Table,7,27968.51,195779.57,25215.8
+2025-08-23,East,Technology,27-inch Monitor,3,20885.16,62655.48,12047.0
+2025-08-25,East,Furniture,Filing Cabinet,4,6428.92,25715.68,6392.16
+2025-08-26,West,Office Supplies,Stapler,6,226.43,1358.58,339.9
+2025-08-28,East,Office Supplies,Ball Pen Set,1,310.82,310.82,31.99
+2025-08-31,North,Technology,USB-C Hub,5,3209.89,16049.45,3315.63
+2025-08-31,South,Technology,Mechanical Keyboard,8,4679.52,37436.16,8736.84
+2025-09-08,South,Office Supplies,Marker Set,8,432.26,3458.08,616.11
+2025-09-15,South,Office Supplies,Ball Pen Set,1,327.65,327.65,31.46
+2025-09-25,East,Furniture,Study Table,4,9822.48,39289.92,5612.05
+2025-09-25,West,Furniture,Office Chair,8,12338.94,98711.52,22329.06
+2025-09-29,East,Technology,Laptop Pro 14,8,76831.1,614648.8,163385.77
+2025-10-02,East,Furniture,Office Chair,2,11983.75,23967.5,2675.53
+2025-10-02,North,Furniture,Study Table,2,10216.37,20432.74,2702.09
+2025-10-08,East,Technology,Laptop Pro 14,5,80073.11,400365.55,94947.4
+2025-10-09,East,Technology,USB-C Hub,7,3497.19,24480.33,6506.45
+2025-10-09,North,Technology,Mechanical Keyboard,1,4922.1,4922.1,1305.7
+2025-10-09,East,Furniture,Study Table,8,9064.74,72517.92,9447.69
+2025-10-11,East,Technology,27-inch Monitor,5,22461.25,112306.25,25102.97
+2025-10-14,South,Furniture,Conference Table,4,30041.79,120167.16,33074.95
+2025-10-18,South,Furniture,Study Table,8,9301.7,74413.6,19564.04
+2025-10-19,North,Technology,Smartphone X,2,41321.49,82642.98,16258.72
+2025-10-20,West,Office Supplies,Stapler,4,264.23,1056.92,255.25
+2025-10-25,North,Furniture,Office Chair,2,12741.43,25482.86,3800.45
+2025-10-26,South,Office Supplies,Marker Set,7,388.71,2720.97,385.43
+2025-10-29,East,Office Supplies,Ball Pen Set,2,319.96,639.92,89.11
+2025-10-31,North,Technology,Smartphone X,5,44942.46,224712.3,44960.96
+2025-11-01,West,Furniture,Study Table,7,10128.08,70896.56,13440.17
+2025-11-02,North,Furniture,Office Chair,4,11464.03,45856.12,10272.46
+2025-11-06,North,Furniture,Office Chair,8,12590.57,100724.56,27661.3
+2025-11-07,West,Furniture,Study Table,8,9390.1,75120.8,9220.35
+2025-11-23,South,Furniture,Office Chair,8,12629.2,101033.6,16724.84
+2025-11-24,North,Technology,Mechanical Keyboard,5,4270.4,21352.0,2304.04
+2025-11-24,South,Office Supplies,Ball Pen Set,3,292.43,877.29,98.53
+2025-12-02,North,Technology,Laptop Pro 14,7,80220.3,561542.1,135231.68
+2025-12-06,South,Technology,Mechanical Keyboard,5,4153.89,20769.45,2106.17
+2025-12-06,East,Office Supplies,Stapler,8,252.67,2021.36,300.68
+2025-12-07,East,Furniture,Study Table,2,9917.53,19835.06,2778.19
+2025-12-10,North,Furniture,Office Chair,3,12585.35,37756.05,4869.1
+2025-12-20,East,Technology,Laser Printer,7,20332.05,142324.35,29884.64
+2025-12-20,South,Technology,USB-C Hub,4,3352.71,13410.84,1814.49
+2025-12-23,West,Office Supplies,Ball Pen Set,1,303.44,303.44,79.95
